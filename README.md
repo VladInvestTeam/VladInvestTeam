@@ -13,7 +13,7 @@
 </div><img src="https://komarev.com/ghpvc/?username=VladInvestTeam&style=flat-square&color=brightgreen" alt=""/>
 <h1>
   Hello everyone
-  <img src="https://media.giphy.com/media/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="120px"/>
+  <img src="https://media.giphy.com/media/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="100px"/>
 </h1>
 
 
